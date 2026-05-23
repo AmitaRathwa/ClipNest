@@ -1,0 +1,7 @@
+<footer style="margin-top:0px">
+    <div class="container">
+      <div class="col-lg-12" >
+        {{-- <p>Copyright © 2048 LUGX Gaming Company. All rights reserved. &nbsp;&nbsp; <a rel="nofollow" href="https://templatemo.com" target="_blank">Design: TemplateMo</a></p> --}}
+      </div>
+    </div>
+  </footer>
